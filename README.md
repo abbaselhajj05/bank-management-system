@@ -5,22 +5,22 @@ This **C++ console application** demonstrates **Object-Oriented Programming (OOP
 
 ## Features  
 
-### 🔹 Secure Authentication  
+### Secure Authentication  
 - Role-based access control ensures restricted functionalities.  
 
-### 🔹 Client Management  
+### Client Management  
 - Add, update, search, and remove client records.  
 
-### 🔹 Transactions  
+### Transactions  
 - Perform **deposits, withdrawals, and fund transfers** securely with real-time balance updates.  
 
-### 🔹 User Administration  
+### User Administration  
 - Manage bank employees with **permission-based access**.  
 
-### 🔹 Currency Exchange  
+### Currency Exchange  
 - Track exchange rates and handle multi-currency transactions.  
 
-### 🔹 Data Persistence  
+### Data Persistence  
 - **File-based storage** retains data across sessions.  
 
 ## Technology Stack  

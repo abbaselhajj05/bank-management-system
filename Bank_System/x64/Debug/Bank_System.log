@@ -1,0 +1,279 @@
+﻿  Main.cpp
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(28,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(32,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(137,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(155,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(206,11): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsString.h(260,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDate.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUtil.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsInputValidate.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsInputValidate.h(142,10): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsBankClient.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsBankClient.h(275,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsBankClient.h(277,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsClientListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDeleteClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDeleteClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDeleteClientScreen.h(45,22): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateClientScreen.h(65,22): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsFindClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDepositScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDepositScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDepositScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDepositScreen.h(47,23): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDepositScreen.h(53,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsWithdrawScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsWithdrawScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsWithdrawScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsWithdrawScreen.h(53,24): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsWithdrawScreen.h(59,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTotalBalancesScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTotalBalancesScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTotalBalancesScreen.h(41,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransferScreen.h(60,24): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsTransactionsScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(11,19): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(20,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(25,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(30,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(35,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(40,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(45,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(50,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsAddNewUserScreen.h(55,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsDeleteUserScreen.h(38,22): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(10,19): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(19,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(24,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(29,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(34,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(39,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(44,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(49,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(54,42): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateUserScreen.h(111,22): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsManageUsersScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUpdateCurrencyRateScreen.h(43,22): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsCurrencyCalculatorScreen.h(84,46): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsMainScreen.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Main.cpp')
+  
+D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\Bank_System\clsUtil.h(177,1): warning C4715: 'clsUtil::numberToText': not all control paths return a value
+  Bank_System.vcxproj -> D:\Abu-Hadhoud Courses\First Phase\11 - OOP As It Should Be (Applications)\Bank_System\x64\Debug\Bank_System.exe

@@ -37,7 +37,7 @@ This **C++ console application** demonstrates **Object-Oriented Programming (OOP
 ### Setup Instructions  
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-username/bank-management-system.git
+   git clone https://github.com/abbaselhajj05/bank-management-system.git
    ```
 2. **Open the Project in Visual Studio:**  
    - Launch Visual Studio.  
